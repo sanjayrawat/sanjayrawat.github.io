@@ -12,3 +12,9 @@
     right: 0;
     background: url(../images/overlay-banner.png) repeat center center;
 }
+
+.header .header-wrapper {
+    padding: 12px 0;
+    background-color: #ffffff;
+    position: relative;
+}
