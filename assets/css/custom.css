@@ -1,0 +1,14 @@
+.top-bar ul a span.colored {
+    color: #ccc;
+}
+
+.message-box:after {
+    content: '';
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background: url(../images/overlay-banner.png) repeat center center;
+}
